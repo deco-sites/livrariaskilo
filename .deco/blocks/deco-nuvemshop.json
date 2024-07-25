@@ -2,7 +2,7 @@
   "__resolveType": "site/apps/deco/nuvemshop.ts",
   "accessToken": {
     "__resolveType": "website/loaders/secret.ts",
-    "encrypted": "117c6cea033490830f4d30a6f7af5415053a3258436c430dfa0ac33bacedfa0ba8f2abd12c82e0823e7f32474eb120b1"
+    "encrypted": "3377f1555754a3ec7794407c1ce0b509be92bb776e027419fc94d948fffa612f1a73572b0f3d36d726ae063d7719c8f7"
   },
   "platform": "nuvemshop",
   "publicUrl": "https://livrariaskilo.lojavirtualnuvem.com.br/",

@@ -143,10 +143,6 @@
     "blockType": "apps",
     "__resolveType": "site/apps/deco/analytics.ts"
   },
-  "/.deco/blocks/deco-shopify.json": {
-    "blockType": "apps",
-    "__resolveType": "site/apps/deco/shopify.ts"
-  },
   "/.deco/blocks/Deco.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Theme/Theme.tsx"
@@ -184,5 +180,13 @@
   "/.deco/blocks/deco-nuvemshop.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/nuvemshop.ts"
+  },
+  "/.deco/blocks/prodshelftest.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Product/ProductShelf.tsx"
+  },
+  "/.deco/blocks/My%20Block.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Product/ProductShelf.tsx"
   }
 }
