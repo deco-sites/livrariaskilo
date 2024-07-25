@@ -1,0 +1,10 @@
+{
+  "__resolveType": "site/apps/deco/nuvemshop.ts",
+  "accessToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "117c6cea033490830f4d30a6f7af5415053a3258436c430dfa0ac33bacedfa0ba8f2abd12c82e0823e7f32474eb120b1"
+  },
+  "platform": "nuvemshop",
+  "publicUrl": "https://livrariaskilo.lojavirtualnuvem.com.br/",
+  "storeId": "4944715"
+}
