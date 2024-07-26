@@ -188,5 +188,13 @@
   "/.deco/blocks/My%20Block.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Product/ProductShelf.tsx"
+  },
+  "/.deco/blocks/My%20Block3.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Product/ProductShelf.tsx"
+  },
+  "/.deco/blocks/teste-productlisting.json": {
+    "blockType": "sections",
+    "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx"
   }
 }

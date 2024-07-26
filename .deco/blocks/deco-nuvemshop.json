@@ -2,9 +2,9 @@
   "__resolveType": "site/apps/deco/nuvemshop.ts",
   "accessToken": {
     "__resolveType": "website/loaders/secret.ts",
-    "encrypted": "3377f1555754a3ec7794407c1ce0b509be92bb776e027419fc94d948fffa612f1a73572b0f3d36d726ae063d7719c8f7"
+    "encrypted": "ed7d3dc10c366f8d6f469b4bc1ba5168c6cfc4f972ef5659909b14d4546ffffffe01e17a98a03959d46e721927491c6f"
   },
-  "platform": "nuvemshop",
   "publicUrl": "https://livrariaskilo.lojavirtualnuvem.com.br/",
-  "storeId": "4944715"
+  "storeId": "4944715",
+  "platform": "nuvemshop"
 }

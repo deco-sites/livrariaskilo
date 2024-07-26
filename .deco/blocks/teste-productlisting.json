@@ -1,0 +1,40 @@
+{
+  "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+  "jsonLD": {
+    "@type": "ProductListingPage",
+    "breadcrumb": {
+      "@type": "BreadcrumbList"
+    },
+    "filters": [],
+    "products": [
+      {
+        "@type": "Product",
+        "additionalProperty": [],
+        "aggregateRating": {
+          "@type": "AggregateRating"
+        },
+        "brand": {
+          "@type": "Brand"
+        },
+        "isRelatedTo": [],
+        "isSimilarTo": [],
+        "isVariantOf": {
+          "@type": "ProductGroup",
+          "hasVariant": [],
+          "additionalProperty": []
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "offers": []
+        },
+        "review": [],
+        "isAccessoryOrSparePartFor": [],
+        "questions": []
+      }
+    ],
+    "pageInfo": {
+      "pageTypes": []
+    },
+    "sortOptions": []
+  }
+}
